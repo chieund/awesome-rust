@@ -1,4 +1,8 @@
-# Tutorial Rust Leanrning 
+# Tutorial Vietnam 
+
+Document name | URL | Note
+--- | --- | --- |
+Rust Tiếng Việt | https://rust-tieng-viet.github.io/ | |
 
 # Tutorial
 Document name | URL | Note
@@ -8,6 +12,9 @@ rust-unofficial  | https://github.com/rust-unofficial/awesome-rust | A curated l
 google  | https://github.com/google/comprehensive-rust | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone  |
 Rust By Example | https://doc.rust-lang.org/rust-by-example/ |
 Learning Rust | https://learning-rust.github.io/ |
+Learning systems programming with Rust | https://speakerdeck.com/jvns/learning-systems-programming-with-rust |
+ctjhoa | https://github.com/ctjhoa/rust-learning | A bunch of links to blog posts, articles, videos, etc for learning Rust |
+
 
 # Ebook
 Name | URL | Source
