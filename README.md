@@ -28,3 +28,5 @@ List of Rust books | https://github.com/sger/RustBooks |
 Framework | URL | Note 
 --- | --- | --- | 
 Leptos  | https://github.com/leptos-rs/leptos | Build fast web applications with Rust.  |
+Rocket  | https://github.com/SergioBenitez/Rocket | A web framework for Rust.  |
+
