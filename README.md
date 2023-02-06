@@ -29,4 +29,5 @@ Framework | URL | Note
 --- | --- | --- | 
 Leptos  | https://github.com/leptos-rs/leptos | Build fast web applications with Rust.  |
 Rocket  | https://github.com/SergioBenitez/Rocket | A web framework for Rust.  |
+Rust on Nails  | https://github.com/purton-tech/rust-on-nails | Full stack web architecture for Rust.  |
 
