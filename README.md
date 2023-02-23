@@ -14,6 +14,10 @@ Rust By Example | https://doc.rust-lang.org/rust-by-example/ |
 Learning Rust | https://learning-rust.github.io/ |
 Learning systems programming with Rust | https://speakerdeck.com/jvns/learning-systems-programming-with-rust |
 ctjhoa | https://github.com/ctjhoa/rust-learning | A bunch of links to blog posts, articles, videos, etc for learning Rust |
+pretzelhammer | https://github.com/pretzelhammer/rust-blog | Educational blog posts for Rust beginners |
+rust-lang | https://github.com/rust-lang/rustlings | 🦀 Small exercises to get you used to reading and writing Rust code! |
+
+
 
 
 # Ebook
